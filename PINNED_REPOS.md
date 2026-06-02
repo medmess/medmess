@@ -5,8 +5,8 @@ Pin these six repositories on your GitHub profile:
 1. `pfe-ecom-backend`
 2. `pfe-ecom-frontend`
 3. `lost-and-found-web-app-plateforme-`
-4. `fantasy`
-5. `telegram-news`
+4. `futivo backend-`
+5. `futivo interface-`
 6. `pitch-reservation-app`
 
 For DevOps and IT jobs, the ecommerce backend and frontend should appear first because they connect directly to your Azure DevOps screenshots, pipelines, testing, and full delivery lifecycle.
