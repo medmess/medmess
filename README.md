@@ -22,6 +22,8 @@
 
 I'm a Computer Science graduate based in Almere, Netherlands, focused mainly on DevOps, cloud, CI/CD, and infrastructure delivery.
 
+I studied in Oran, Algeria at USTO University, specializing in ISIL: Ingenierie des Systemes et de Logiciels.
+
 DevOps is the area I care about the most and the one I want to grow in professionally. I like connecting the full delivery chain: planning the work, managing code, testing features, building pipelines, and preparing software for deployment.
 
 In my ecommerce graduation project, I worked as product owner, tester, frontend developer, and backend developer, but the strongest part of the story is the DevOps workflow around it: Azure Boards, Azure Repos, Azure Pipelines, sprint tracking, and test execution.
@@ -132,6 +134,11 @@ I am looking for a role where DevOps is not just a title, but real daily work: p
 - Infrastructure or IT Support Engineer with DevOps growth path
 - QA Automation / Test Engineer with CI/CD focus
 - Junior Software Engineer on a DevOps-minded team
+
+## Education
+
+**USTO University, Oran, Algeria**  
+Specialite ISIL: Ingenierie des Systemes et de Logiciels
 
 ## Contact
 
