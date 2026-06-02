@@ -22,7 +22,7 @@
 
 I'm a Computer Science graduate based in Almere, Netherlands, focused mainly on DevOps, cloud, CI/CD, and infrastructure delivery.
 
-I studied in Oran, Algeria at USTO University, specializing in ISIL: Ingenierie des Systemes et de Logiciels.
+I studied in Oran, Algeria at USTO University, specializing in ISIL: Information Systems and Software Engineering.
 
 DevOps is the area I care about the most and the one I want to grow in professionally. I like connecting the full delivery chain: planning the work, managing code, testing features, building pipelines, and preparing software for deployment.
 
@@ -141,7 +141,7 @@ I am looking for a role where DevOps is not just a title, but real daily work: p
 ## Education
 
 **USTO University, Oran, Algeria**  
-Specialite ISIL: Ingenierie des Systemes et de Logiciels
+ISIL: Information Systems and Software Engineering
 
 ## Contact
 
