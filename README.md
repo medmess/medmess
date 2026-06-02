@@ -1,95 +1,136 @@
-# Mohammed Messaoudi
+<p align="center">
+  <img src="assets/profile-banner.svg" alt="Mohammed Messaoudi - DevOps profile banner" width="100%">
+</p>
 
-### DevOps & Cloud Enthusiast | Full-Stack Developer | Product Owner & Tester
+<p align="center">
+  <a href="https://portfolio-three-azure-lhhzp87oz9.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/mohammed-messaoudi-32959b38b">
+    <img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/medmess">
+    <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-three-azure-lhhzp87oz9.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/mohammed-messaoudi-32959b38b)
-[![GitHub](https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white)](https://github.com/medmess)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&amp;weight=600&amp;size=24&amp;duration=2800&amp;pause=900&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=DevOps+and+Cloud+Enthusiast;Full-Stack+Developer;Product+Owner+and+Tester;Learning+by+building+real+projects" alt="Typing animation">
+</p>
 
-Computer Science graduate based in Almere, Netherlands, focused on DevOps, cloud, CI/CD, infrastructure, and full-stack delivery. I like working close to the complete software lifecycle: planning features, building frontend and backend services, testing releases, and improving deployment workflows.
+## Hey, I'm Mohammed
 
-I am open to DevOps, Cloud, Infrastructure, IT Support, QA Automation, and Junior Software Engineering roles.
+I'm a Computer Science graduate based in Almere, Netherlands. I enjoy the part of software where everything connects: understanding the feature, building the app, testing the flow, and making the delivery process cleaner.
 
-## Core Strengths
+My main direction right now is DevOps and cloud, but I like that my background is not only one small piece of the pipeline. In my ecommerce graduation project, I worked as product owner, tester, frontend developer, and backend developer, so I learned how a project feels from planning to release.
 
-- Azure DevOps: Boards, Repos, Pipelines, Test Plans, sprint tracking, work items
-- CI/CD: build pipelines, release thinking, deployment readiness, testing feedback loops
-- Backend: ASP.NET Core, C#, REST APIs, SQL Server
-- Frontend: Angular, TypeScript, HTML, CSS, responsive UI
-- Containers & Cloud: Docker, Kubernetes fundamentals, Azure ecosystem
-- Delivery: product ownership, backlog management, manual testing, feature validation
+I am looking for my first strong opportunity in DevOps, Cloud, Infrastructure, IT Support, QA/Test Automation, or Junior Software Engineering.
 
-## Tech Stack
+## What I Like Working On
 
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0B1220?style=for-the-badge&logo=azuredevops&logoColor=0078D7)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0B1220?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
-![Docker](https://img.shields.io/badge/Docker-0B1220?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0B1220?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
-![C#](https://img.shields.io/badge/C%23-0B1220?style=for-the-badge&logo=csharp&logoColor=512BD4)
-![.NET](https://img.shields.io/badge/.NET-0B1220?style=for-the-badge&logo=dotnet&logoColor=512BD4)
-![Angular](https://img.shields.io/badge/Angular-0B1220?style=for-the-badge&logo=angular&logoColor=DD0031)
-![TypeScript](https://img.shields.io/badge/TypeScript-0B1220?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=3776AB)
-![SQL Server](https://img.shields.io/badge/SQL_Server-0B1220?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
-![Git](https://img.shields.io/badge/Git-0B1220?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white)
+```text
+idea -> backlog -> code -> test -> pipeline -> deploy -> improve
+```
 
-## DevOps Project Highlight
+- Turning messy requirements into clear tasks and user stories
+- Building frontend screens and backend APIs that actually work together
+- Testing features like a real user, not only like a developer
+- Setting up cleaner delivery with Azure DevOps, repos, boards, and pipelines
+- Learning infrastructure, automation, Docker, Kubernetes, and cloud step by step
+
+## My Toolbox
+
+<p>
+  <img src="https://img.shields.io/badge/Azure_DevOps-0B1220?style=flat-square&logo=azuredevops&logoColor=0078D7" alt="Azure DevOps">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0B1220?style=flat-square&logo=microsoftazure&logoColor=0078D4" alt="Azure">
+  <img src="https://img.shields.io/badge/Docker-0B1220?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-0B1220?style=flat-square&logo=kubernetes&logoColor=326CE5" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Git-0B1220?style=flat-square&logo=git&logoColor=F05032" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-0B1220?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/C%23-0B1220?style=flat-square&logo=csharp&logoColor=512BD4" alt="C#">
+  <img src="https://img.shields.io/badge/.NET-0B1220?style=flat-square&logo=dotnet&logoColor=512BD4" alt=".NET">
+  <img src="https://img.shields.io/badge/Angular-0B1220?style=flat-square&logo=angular&logoColor=DD0031" alt="Angular">
+  <img src="https://img.shields.io/badge/TypeScript-0B1220?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Python-0B1220?style=flat-square&logo=python&logoColor=3776AB" alt="Python">
+  <img src="https://img.shields.io/badge/SQL_Server-0B1220?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927" alt="SQL Server">
+</p>
+
+## A Project I Am Proud Of
 
 ### PFE Ecommerce Platform
 
-I worked across product ownership, testing, frontend, backend, and DevOps workflows for an ecommerce platform. The project used Azure DevOps to organize work, manage repositories, run CI/CD pipelines, and execute test plans.
+This project is the one that best shows how I work. I was not only writing code; I was also organizing work, validating features, testing the product, and connecting the project to Azure DevOps.
 
-| Area | What I worked on |
+| What I did | Tools and skills |
 | --- | --- |
-| Product ownership | User stories, backlog, sprint planning, feature validation |
-| Frontend | Angular interface development and UI improvements |
-| Backend | ASP.NET Core APIs, SQL Server support, business logic |
-| Testing | Test plans, manual execution, bug/feedback tracking |
-| DevOps | Azure Repos, Azure Pipelines, CI/CD process, delivery visibility |
+| Planned user stories, backlog items, and sprint work | Azure Boards, product ownership |
+| Built and improved the frontend | Angular, TypeScript, HTML, CSS |
+| Worked on backend logic and APIs | ASP.NET Core, C#, SQL Server |
+| Tested real user flows and tracked results | Azure Test Plans, manual testing |
+| Managed code and delivery visibility | Azure Repos, Azure Pipelines, Git |
 
 <p align="center">
-  <img src="assets/azure-devops/dashboard.png" alt="Azure DevOps dashboard" width="48%">
-  <img src="assets/azure-devops/pipelines.png" alt="Azure DevOps pipelines" width="48%">
+  <img src="assets/azure-devops/dashboard.png" alt="Azure DevOps project dashboard" width="49%">
+  <img src="assets/azure-devops/pipelines.png" alt="Azure DevOps pipelines" width="49%">
 </p>
 
 <p align="center">
-  <img src="assets/azure-devops/sprints.png" alt="Azure DevOps sprints" width="48%">
-  <img src="assets/azure-devops/test-execution.png" alt="Azure DevOps test execution" width="48%">
+  <img src="assets/azure-devops/sprints.png" alt="Azure DevOps sprint planning" width="49%">
+  <img src="assets/azure-devops/test-execution.png" alt="Azure DevOps test execution" width="49%">
 </p>
 
-## Featured Repositories
+## Projects To Check First
 
-| Repository | Why it matters |
-| --- | --- |
-| [pfe-ecom-backend](https://github.com/medmess/pfe-ecom-backend) | Backend API work with C# and ASP.NET Core for an ecommerce platform |
-| [pfe-ecom-frontend](https://github.com/medmess/pfe-ecom-frontend) | Frontend delivery and UI work for the ecommerce platform |
-| [lost-and-found-web-app-plateforme-](https://github.com/medmess/lost-and-found-web-app-plateforme-) | TypeScript web application showing frontend/product thinking |
-| [fantasy](https://github.com/medmess/fantasy) | C# backend project, useful for showing backend practice |
-| [telegram-news](https://github.com/medmess/telegram-news) | Python automation project |
-| [pitch-reservation-app](https://github.com/medmess/pitch-reservation-app) | Flutter mobile app experience |
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/medmess/pfe-ecom-backend"><strong>pfe-ecom-backend</strong></a>
+      <br>
+      ASP.NET Core ecommerce backend with API logic, SQL Server work, and Azure DevOps delivery context.
+    </td>
+    <td width="50%">
+      <a href="https://github.com/medmess/pfe-ecom-frontend"><strong>pfe-ecom-frontend</strong></a>
+      <br>
+      Angular ecommerce frontend connected to backend services and tested through real user flows.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/medmess/lost-and-found-web-app-plateforme-"><strong>lost-and-found-web-app-plateforme-</strong></a>
+      <br>
+      TypeScript web platform showing product thinking and frontend development.
+    </td>
+    <td width="50%">
+      <a href="https://github.com/medmess/telegram-news"><strong>telegram-news</strong></a>
+      <br>
+      Python automation project, useful for showing scripting and practical problem solving.
+    </td>
+  </tr>
+</table>
 
-## GitHub Activity
+## GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=medmess&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medmess&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" height="165">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=medmess&theme=tokyonight&hide_border=true" alt="GitHub streak" height="170">
 </p>
 
-## What I Am Looking For
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=medmess&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medmess&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165">
+</p>
 
-I am especially interested in teams where I can grow through real infrastructure, cloud, automation, testing, and production delivery work.
+## Right Now
 
-- Junior DevOps Engineer
-- Cloud Engineer Trainee / Junior Cloud Engineer
-- IT Support Engineer with cloud/devops growth path
-- QA Automation / Test Engineer
-- Junior Backend or Full-Stack Developer
+- Improving my DevOps and cloud fundamentals every week
+- Practicing Docker, Kubernetes, CI/CD, and Azure workflows
+- Making my projects easier to understand for recruiters and teams
+- Looking for a role where I can learn fast and contribute with real work
 
-## Contact
+## Let's Connect
+
+I am open to junior roles, internships, traineeships, and entry-level opportunities where I can grow in DevOps, cloud, infrastructure, testing, or software engineering.
 
 - Location: Almere, Netherlands
 - Portfolio: [portfolio-three-azure-lhhzp87oz9.vercel.app](https://portfolio-three-azure-lhhzp87oz9.vercel.app)
 - LinkedIn: [mohammed-messaoudi-32959b38b](https://www.linkedin.com/in/mohammed-messaoudi-32959b38b)
 - GitHub: [medmess](https://github.com/medmess)
-
