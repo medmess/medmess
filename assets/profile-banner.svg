@@ -1,80 +1,96 @@
-<svg width="1200" height="340" viewBox="0 0 1200 340" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Mohammed Messaoudi DevOps profile banner</title>
-  <desc id="desc">Animated dark banner showing a DevOps pipeline from idea to code, test, build, and deploy.</desc>
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Mohammed Messaoudi DevOps Engineer banner</title>
+  <desc id="desc">Premium animated DevOps banner with CI/CD flow, cloud deployment, monitoring, and automation.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#07111F"/>
+      <stop offset="0.48" stop-color="#0B172A"/>
+      <stop offset="1" stop-color="#071827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="0.45" stop-color="#2DD4BF"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
   <style>
-    .bg { fill: #0b1220; }
-    .grid { stroke: #1f3554; stroke-width: 1; opacity: .35; }
-    .line { stroke: #2dd4bf; stroke-width: 4; stroke-linecap: round; stroke-dasharray: 18 18; animation: flow 2.2s linear infinite; }
-    .line2 { stroke: #60a5fa; animation-duration: 2.8s; }
-    .node { fill: #101b30; stroke: #2dd4bf; stroke-width: 3; }
-    .node-blue { stroke: #60a5fa; }
-    .pulse { animation: pulse 2s ease-in-out infinite; transform-origin: center; }
-    .float { animation: float 3s ease-in-out infinite; }
-    .float2 { animation: float 3.7s ease-in-out infinite; }
-    .title { fill: #f8fafc; font: 700 54px Arial, Helvetica, sans-serif; letter-spacing: 0; }
-    .subtitle { fill: #cbd5e1; font: 500 24px Arial, Helvetica, sans-serif; letter-spacing: 0; }
-    .small { fill: #94a3b8; font: 600 16px Arial, Helvetica, sans-serif; letter-spacing: 0; }
-    .tag { fill: #13223a; stroke: #334155; stroke-width: 1; }
-    .tagtext { fill: #e2e8f0; font: 600 17px Arial, Helvetica, sans-serif; letter-spacing: 0; }
-    .spark { fill: #38bdf8; animation: blink 1.8s ease-in-out infinite; }
-    .spark2 { fill: #2dd4bf; animation-delay: .45s; }
-    .spark3 { fill: #a78bfa; animation-delay: .9s; }
-    @keyframes flow { to { stroke-dashoffset: -36; } }
-    @keyframes pulse { 0%,100% { transform: scale(1); opacity: 1; } 50% { transform: scale(1.07); opacity: .82; } }
-    @keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
-    @keyframes blink { 0%,100% { opacity: .25; } 50% { opacity: 1; } }
+    .frame { fill: url(#bg); }
+    .grid { stroke: #1E3A5F; stroke-width: 1; opacity: .28; }
+    .headline { fill: #F8FAFC; font: 700 52px Arial, Helvetica, sans-serif; letter-spacing: 0; }
+    .sub { fill: #CBD5E1; font: 500 23px Arial, Helvetica, sans-serif; letter-spacing: 0; }
+    .muted { fill: #94A3B8; font: 600 15px Arial, Helvetica, sans-serif; letter-spacing: 0; }
+    .chip { fill: #0F2238; stroke: #254966; stroke-width: 1; }
+    .chipText { fill: #E2E8F0; font: 700 15px Arial, Helvetica, sans-serif; letter-spacing: 0; }
+    .panel { fill: #0A1524; stroke: #1E3A5F; stroke-width: 1.4; }
+    .panel2 { fill: #0D1C31; stroke: #2DD4BF; stroke-width: 1.4; }
+    .pipe { stroke: url(#accent); stroke-width: 5; stroke-linecap: round; stroke-dasharray: 16 18; animation: move 2.4s linear infinite; filter: url(#softGlow); }
+    .pulse { animation: pulse 2.1s ease-in-out infinite; transform-origin: center; }
+    .pulse2 { animation-delay: .35s; }
+    .pulse3 { animation-delay: .7s; }
+    .pulse4 { animation-delay: 1.05s; }
+    .scan { animation: scan 3.3s ease-in-out infinite; }
+    .fade { animation: fade 2s ease-in-out infinite; }
+    .fade2 { animation-delay: .5s; }
+    .fade3 { animation-delay: 1s; }
+    @keyframes move { to { stroke-dashoffset: -34; } }
+    @keyframes pulse { 0%,100% { opacity: .92; transform: scale(1); } 50% { opacity: 1; transform: scale(1.035); } }
+    @keyframes scan { 0% { transform: translateY(-45px); opacity: 0; } 18%,70% { opacity: .75; } 100% { transform: translateY(95px); opacity: 0; } }
+    @keyframes fade { 0%,100% { opacity: .32; } 50% { opacity: 1; } }
   </style>
 
-  <rect class="bg" width="1200" height="340" rx="22"/>
-  <g>
-    <path class="grid" d="M80 0V340M160 0V340M240 0V340M320 0V340M400 0V340M480 0V340M560 0V340M640 0V340M720 0V340M800 0V340M880 0V340M960 0V340M1040 0V340M1120 0V340"/>
-    <path class="grid" d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200M0 300H1200"/>
+  <rect class="frame" width="1200" height="360" rx="24"/>
+  <path class="grid" d="M80 0V360M160 0V360M240 0V360M320 0V360M400 0V360M480 0V360M560 0V360M640 0V360M720 0V360M800 0V360M880 0V360M960 0V360M1040 0V360M1120 0V360"/>
+  <path class="grid" d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200M0 300H1200"/>
+
+  <g transform="translate(70 64)">
+    <text class="headline" x="0" y="46">Mohammed Messaoudi</text>
+    <text class="sub" x="2" y="84">DevOps Engineer | Azure DevOps | CI/CD | Docker | Kubernetes | Cloud</text>
+    <text class="muted" x="2" y="118">I build delivery pipelines, test release flows, and connect code to reliable deployment.</text>
+    <g transform="translate(0 154)">
+      <rect class="chip" width="118" height="34" rx="17"/>
+      <text class="chipText" x="23" y="22">CI/CD</text>
+      <rect class="chip" x="132" width="140" height="34" rx="17"/>
+      <text class="chipText" x="158" y="22">Azure DevOps</text>
+      <rect class="chip" x="286" width="105" height="34" rx="17"/>
+      <text class="chipText" x="317" y="22">Docker</text>
+      <rect class="chip" x="405" width="126" height="34" rx="17"/>
+      <text class="chipText" x="430" y="22">Kubernetes</text>
+      <rect class="chip" x="545" width="115" height="34" rx="17"/>
+      <text class="chipText" x="576" y="22">Cloud</text>
+    </g>
   </g>
 
-  <circle class="spark spark1" cx="1005" cy="70" r="5"/>
-  <circle class="spark spark2" cx="1085" cy="122" r="6"/>
-  <circle class="spark spark3" cx="1028" cy="260" r="4"/>
-  <circle class="spark spark2" cx="1125" cy="230" r="5"/>
+  <g transform="translate(665 74)">
+    <rect class="panel" x="0" y="0" width="420" height="216" rx="20"/>
+    <rect class="panel2 pulse" x="32" y="42" width="78" height="62" rx="14"/>
+    <rect class="panel2 pulse pulse2" x="154" y="42" width="78" height="62" rx="14"/>
+    <rect class="panel2 pulse pulse3" x="276" y="42" width="78" height="62" rx="14"/>
+    <path class="pipe" d="M110 73H154M232 73H276"/>
+    <text class="chipText" x="51" y="79">CODE</text>
+    <text class="chipText" x="170" y="79">TEST</text>
+    <text class="chipText" x="294" y="79">BUILD</text>
 
-  <text class="title" x="70" y="104">Mohammed Messaoudi</text>
-  <text class="subtitle" x="73" y="144">DevOps-minded developer building, testing, and shipping software</text>
+    <rect class="panel" x="32" y="136" width="354" height="44" rx="12"/>
+    <path class="pipe" d="M58 158H360"/>
+    <circle class="fade" cx="84" cy="158" r="6" fill="#38BDF8"/>
+    <circle class="fade fade2" cx="198" cy="158" r="6" fill="#2DD4BF"/>
+    <circle class="fade fade3" cx="318" cy="158" r="6" fill="#A78BFA"/>
 
-  <g transform="translate(72 184)">
-    <rect class="tag" x="0" y="0" width="130" height="38" rx="19"/>
-    <text class="tagtext" x="22" y="25">Azure DevOps</text>
-    <rect class="tag" x="148" y="0" width="82" height="38" rx="19"/>
-    <text class="tagtext" x="172" y="25">CI/CD</text>
-    <rect class="tag" x="248" y="0" width="104" height="38" rx="19"/>
-    <text class="tagtext" x="273" y="25">Docker</text>
-    <rect class="tag" x="370" y="0" width="130" height="38" rx="19"/>
-    <text class="tagtext" x="395" y="25">ASP.NET</text>
-    <rect class="tag" x="518" y="0" width="116" height="38" rx="19"/>
-    <text class="tagtext" x="548" y="25">Angular</text>
+    <rect class="scan" x="24" y="46" width="372" height="22" rx="11" fill="url(#accent)" opacity=".24"/>
   </g>
 
-  <g transform="translate(640 88)">
-    <path class="line" d="M70 80H185"/>
-    <path class="line line2" d="M285 80H400"/>
-    <path class="line" d="M500 80H570"/>
-
-    <g class="float">
-      <rect class="node pulse" x="0" y="35" width="90" height="90" rx="18"/>
-      <text class="small" x="27" y="85">IDEA</text>
-    </g>
-    <g class="float2">
-      <rect class="node node-blue pulse" x="175" y="35" width="110" height="90" rx="18"/>
-      <text class="small" x="213" y="76">CODE</text>
-      <text class="small" x="217" y="98">&amp; API</text>
-    </g>
-    <g class="float">
-      <rect class="node pulse" x="390" y="35" width="110" height="90" rx="18"/>
-      <text class="small" x="426" y="76">TEST</text>
-      <text class="small" x="414" y="98">&amp; BUILD</text>
-    </g>
-    <g class="float2">
-      <rect class="node node-blue pulse" x="560" y="35" width="110" height="90" rx="18"/>
-      <text class="small" x="590" y="76">SHIP</text>
-      <text class="small" x="587" y="98">CLOUD</text>
-    </g>
+  <g transform="translate(810 286)">
+    <text class="muted" x="0" y="0">PLAN</text>
+    <text class="muted" x="70" y="0">BUILD</text>
+    <text class="muted" x="145" y="0">TEST</text>
+    <text class="muted" x="210" y="0">DEPLOY</text>
+    <text class="muted" x="300" y="0">MONITOR</text>
   </g>
 </svg>

@@ -1,0 +1,51 @@
+<svg width="1000" height="180" viewBox="0 0 1000 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">DevOps loop animation</title>
+  <desc id="desc">Animated DevOps loop showing plan, code, build, test, deploy, monitor, and improve.</desc>
+  <defs>
+    <linearGradient id="flow" x1="80" y1="0" x2="920" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset=".5" stop-color="#2DD4BF"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .bg { fill: #07111F; }
+    .card { fill: #0B172A; stroke: #1E3A5F; stroke-width: 1.2; }
+    .active { stroke: #2DD4BF; animation: active 2.8s ease-in-out infinite; transform-origin: center; }
+    .active2 { animation-delay: .4s; }
+    .active3 { animation-delay: .8s; }
+    .active4 { animation-delay: 1.2s; }
+    .active5 { animation-delay: 1.6s; }
+    .active6 { animation-delay: 2s; }
+    .label { fill: #E2E8F0; font: 700 15px Arial, Helvetica, sans-serif; letter-spacing: 0; }
+    .line { stroke: url(#flow); stroke-width: 4; stroke-linecap: round; stroke-dasharray: 12 14; animation: flow 2.2s linear infinite; }
+    @keyframes flow { to { stroke-dashoffset: -26; } }
+    @keyframes active { 0%,100% { opacity: .78; } 50% { opacity: 1; filter: drop-shadow(0 0 8px #2DD4BF); } }
+  </style>
+  <rect class="bg" width="1000" height="180" rx="18"/>
+  <path class="line" d="M130 90H870"/>
+  <g transform="translate(54 52)">
+    <rect class="card active" width="110" height="76" rx="14"/>
+    <text class="label" x="34" y="45">PLAN</text>
+  </g>
+  <g transform="translate(204 52)">
+    <rect class="card active active2" width="110" height="76" rx="14"/>
+    <text class="label" x="35" y="45">CODE</text>
+  </g>
+  <g transform="translate(354 52)">
+    <rect class="card active active3" width="110" height="76" rx="14"/>
+    <text class="label" x="34" y="45">BUILD</text>
+  </g>
+  <g transform="translate(504 52)">
+    <rect class="card active active4" width="110" height="76" rx="14"/>
+    <text class="label" x="36" y="45">TEST</text>
+  </g>
+  <g transform="translate(654 52)">
+    <rect class="card active active5" width="110" height="76" rx="14"/>
+    <text class="label" x="26" y="45">DEPLOY</text>
+  </g>
+  <g transform="translate(804 52)">
+    <rect class="card active active6" width="110" height="76" rx="14"/>
+    <text class="label" x="19" y="45">MONITOR</text>
+  </g>
+</svg>
