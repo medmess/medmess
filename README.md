@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial&amp;weight=700&amp;size=24&amp;duration=2500&amp;pause=700&amp;color=2DD4BF&amp;center=true&amp;vCenter=true&amp;width=920&amp;lines=DevOps+is+my+strongest+area;Azure+DevOps+%7C+CI%2FCD+%7C+Pipelines;Docker+%7C+Kubernetes+%7C+Cloud;I+care+about+reliable+delivery" alt="DevOps typing animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&amp;weight=700&amp;size=24&amp;duration=2500&amp;pause=700&amp;color=2DD4BF&amp;center=true&amp;vCenter=true&amp;width=920&amp;lines=DevOps+is+my+strongest+area;Azure+DevOps+%7C+CI%2FCD+%7C+Pipelines;Boards+%7C+Repos+%7C+Test+Plans;I+care+about+reliable+delivery" alt="DevOps typing animation">
 </p>
 
 ## Hey, I'm Mohammed
@@ -40,7 +40,7 @@ requirements -> backlog -> repo -> pipeline -> tests -> release -> monitoring ->
 
 - Azure DevOps for boards, repos, pipelines, test plans, and project delivery
 - CI/CD thinking: build automation, release readiness, and fast feedback
-- Containers and cloud: Docker, Kubernetes fundamentals, Azure ecosystem
+- Cloud and containers: Azure ecosystem, with basic Docker and Kubernetes foundations
 - Testing culture: validating real user flows before calling a feature done
 - Full-stack awareness: frontend and backend experience that helps me understand what the pipeline is shipping
 
@@ -50,15 +50,18 @@ requirements -> backlog -> repo -> pipeline -> tests -> release -> monitoring ->
   <img src="https://img.shields.io/badge/Azure_DevOps-07111F?style=flat-square&logo=azuredevops&logoColor=0078D7" alt="Azure DevOps">
   <img src="https://img.shields.io/badge/Azure-07111F?style=flat-square&logo=microsoftazure&logoColor=0078D4" alt="Azure">
   <img src="https://img.shields.io/badge/CI%2FCD-07111F?style=flat-square&logo=githubactions&logoColor=2DD4BF" alt="CI/CD">
-  <img src="https://img.shields.io/badge/Docker-07111F?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker">
-  <img src="https://img.shields.io/badge/Kubernetes-07111F?style=flat-square&logo=kubernetes&logoColor=326CE5" alt="Kubernetes">
   <img src="https://img.shields.io/badge/Git-07111F?style=flat-square&logo=git&logoColor=F05032" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-07111F?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Azure_Boards-07111F?style=flat-square&logo=azuredevops&logoColor=2DD4BF" alt="Azure Boards">
+  <img src="https://img.shields.io/badge/Azure_Repos-07111F?style=flat-square&logo=azuredevops&logoColor=38BDF8" alt="Azure Repos">
+  <img src="https://img.shields.io/badge/Test_Plans-07111F?style=flat-square&logo=azuredevops&logoColor=A78BFA" alt="Azure Test Plans">
   <img src="https://img.shields.io/badge/Linux-07111F?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux">
   <img src="https://img.shields.io/badge/SQL_Server-07111F?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927" alt="SQL Server">
   <img src="https://img.shields.io/badge/ASP.NET_Core-07111F?style=flat-square&logo=dotnet&logoColor=512BD4" alt="ASP.NET Core">
   <img src="https://img.shields.io/badge/Angular-07111F?style=flat-square&logo=angular&logoColor=DD0031" alt="Angular">
   <img src="https://img.shields.io/badge/Python-07111F?style=flat-square&logo=python&logoColor=3776AB" alt="Python">
+  <img src="https://img.shields.io/badge/Docker_Basics-07111F?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker basics">
+  <img src="https://img.shields.io/badge/Kubernetes_Basics-07111F?style=flat-square&logo=kubernetes&logoColor=326CE5" alt="Kubernetes basics">
 </p>
 
 ## Azure DevOps Project Proof

@@ -1,6 +1,6 @@
 <svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Mohammed Messaoudi DevOps Engineer banner</title>
-  <desc id="desc">Premium animated DevOps banner with CI/CD flow, cloud deployment, monitoring, and automation.</desc>
+  <desc id="desc">Premium animated DevOps banner with Azure DevOps, CI/CD flow, testing, deployment, and automation.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#07111F"/>
@@ -51,19 +51,19 @@
 
   <g transform="translate(70 64)">
     <text class="headline" x="0" y="46">Mohammed Messaoudi</text>
-    <text class="sub" x="2" y="84">DevOps Engineer | Azure DevOps | CI/CD | Docker | Kubernetes | Cloud</text>
+    <text class="sub" x="2" y="84">DevOps Engineer | Azure DevOps | CI/CD | Boards | Repos | Test Plans</text>
     <text class="muted" x="2" y="118">I build delivery pipelines, test release flows, and connect code to reliable deployment.</text>
     <g transform="translate(0 154)">
       <rect class="chip" width="118" height="34" rx="17"/>
       <text class="chipText" x="23" y="22">CI/CD</text>
       <rect class="chip" x="132" width="140" height="34" rx="17"/>
       <text class="chipText" x="158" y="22">Azure DevOps</text>
-      <rect class="chip" x="286" width="105" height="34" rx="17"/>
-      <text class="chipText" x="317" y="22">Docker</text>
-      <rect class="chip" x="405" width="126" height="34" rx="17"/>
-      <text class="chipText" x="430" y="22">Kubernetes</text>
-      <rect class="chip" x="545" width="115" height="34" rx="17"/>
-      <text class="chipText" x="576" y="22">Cloud</text>
+      <rect class="chip" x="286" width="92" height="34" rx="17"/>
+      <text class="chipText" x="318" y="22">Repos</text>
+      <rect class="chip" x="392" width="128" height="34" rx="17"/>
+      <text class="chipText" x="421" y="22">Test Plans</text>
+      <rect class="chip" x="534" width="122" height="34" rx="17"/>
+      <text class="chipText" x="571" y="22">Azure</text>
     </g>
   </g>
 
