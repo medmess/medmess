@@ -20,7 +20,7 @@
 
 ## Hey, I'm Mohammed
 
-I'm a Computer Science graduate based in Almere, Netherlands, focused mainly on DevOps, cloud, CI/CD, and infrastructure delivery.
+I'm a Computer Science graduate based in oran, algeria, focused mainly on DevOps, cloud, CI/CD, and infrastructure delivery.
 
 I studied in Oran, Algeria at USTO University, specializing in ISIL: Information Systems and Software Engineering.
 
